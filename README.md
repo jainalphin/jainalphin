@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jainalphin
 - 👀 I’m interested in Artifical Intelligence
-- 🌱 I’m currently learning Artifical Intelligence too/
+- 🌱 I’m currently learning Artifical Intelligence too
 
 
 <!---
