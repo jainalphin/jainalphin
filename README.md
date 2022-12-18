@@ -12,7 +12,7 @@ I am a Machine Learning Engineer from India. I love programming, cooking, readin
 <img align="right" alt="GIF" src="https://octodex.github.com/images/femalecodertocat.png" width="400" />
   
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp; I build End-to-End ML Pipelines on local, cloud and edge devices.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp; I build End-to-End ML Pipelines.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="30" />&nbsp;&nbsp; < In my free time I participate on Kaggle comptetion
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: &nbsp; jainalphin@gmail.com
 
