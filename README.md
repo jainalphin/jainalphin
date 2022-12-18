@@ -9,7 +9,7 @@
 
 I am a Machine Learning Engineer from India. I love programming, cooking, reading and watching animes. 
 
-<img align="right" alt="GIF" src="https://octodex.github.com/images/femalecodertocat.png" width="400" />
+<img align="right" alt="GIF" src="https://octodex.github.com/images/femalecodertocat.png" width="200" />
   
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp; I build End-to-End ML Pipelines.
