@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm Alphin Jain</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp> Hi there, I'm Alphin Jain</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alphin-jain)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-squar&logo=Twitter&logoColor=white)](https://twitter.com/alph_jain)
@@ -13,7 +13,8 @@ I am a Machine Learning Engineer from India. I love programming, cooking, readin
   
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp; I build End-to-End ML Pipelines.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="30" />&nbsp;&nbsp; < In my free time I participate on Kaggle comptetion
+- <img src="https://media.tenor.com/umNL8sELi2kAAAAC/robot-joypixels.gif" width="30">&nbsp;&nbsp; Passionate about AI
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="30" />&nbsp;&nbsp; In my free time I participate on Kaggle comptetion
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: &nbsp; jainalphin@gmail.com
 
 <br>
