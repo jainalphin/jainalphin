@@ -12,9 +12,9 @@ I am a Machine Learning Engineer from India. I love programming, cooking, readin
 <img align="right" alt="GIF" src="https://octodex.github.com/images/femalecodertocat.png" width="200" />
   
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp; I build End-to-End ML Pipelines.
-- <img src="https://media.tenor.com/umNL8sELi2kAAAAC/robot-joypixels.gif" width="30">&nbsp;&nbsp; Passionate about AI
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="30" />&nbsp;&nbsp; In my free time I participate on Kaggle comptetion
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp; I build, deploy and monitor end-to-end machine learning pipelines on local, cloud and edge devices.
+- <img src="https://media.tenor.com/umNL8sELi2kAAAAC/robot-joypixels.gif" width="30">&nbsp;&nbsp; I am very passionate about AI, Robots and Space.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="30" />&nbsp;&nbsp; In my free time, I participate on Kaggle comptetion
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: &nbsp; jainalphin@gmail.com
 
 <br>
