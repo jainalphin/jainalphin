@@ -26,7 +26,6 @@ I am a Machine Learning Engineer from India. I love programming, cooking, readin
 <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png">
 <img height="50" src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
-<img height="50" src="https://raw.githubusercontent.com/jainalphin/jainalphin-portfolio/main/images/skills/keras.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img height="50" src="https://user-images.githubusercontent.com/31406378/108641411-f9374f00-7496-11eb-82a7-0fa2a9cc5f93.png">
 <div>
